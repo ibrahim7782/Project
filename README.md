@@ -1,3 +1,19 @@
+                               TEAM MEMBERS
+                              1. M.MOHAMED IBRAHIM THOUFEEK
+                              2. M.MOHAMED FAIZAL
+                              3. K.SANTHOSH KUMAR
+                              4. S.SIVAPRAKASH
+
+
+
+
+
+
+
+
+
+
+
 A car crash mini-project on alcohol and speed can explore the relationship between these two factors and their impact on road safety. Here's a possible project outline:
 
 Title: "The Deadly Combination: Alcohol and Speed in Car Crashes"
